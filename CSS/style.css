@@ -1,0 +1,23 @@
+h1 {font-size: 120px;
+text-align: center;
+background-color: rgba(71, 30, 109, 0.808);}
+p{text-align: left;
+line-height: 40px;
+font-family: cursive;
+font-size: 30px;}
+img{width: 280px;height: 400px;}
+h2{text-align: center;
+font-family:fantasy 900 ;
+font-size: 130px;
+color: rgb(255, 255, 255);
+background-color: rgba(176, 56, 231, 0.562);}
+img{text-align: center;}
+h3{background-color: rgba(72, 253, 112, 0.993);}
+h4{font-size: 19px;
+background-color: rgb(255, 252, 103);}
+h5{font-size: 19px;
+background-color: rgba(105, 108, 255, 0.986);}
+h6{background-color: rgb(206, 228, 248);
+color: rgb(206, 232, 255);}
+a{text-align: center;
+font-size: 30px;}
